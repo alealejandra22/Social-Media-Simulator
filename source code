@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.*;
 //import necessary libraries to work with files and scanners
 
-public class Blabber{
+public class SocialMediaSimulator{
     public static void main(String[] args) throws IOException{
 
         /*In the main method we check input is valid and call the appropiate methods
